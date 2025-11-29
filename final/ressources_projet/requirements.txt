@@ -1,8 +1,0 @@
-pytesseract
-opencv-python
-imutils
-matplotlib
-pymongo
-dnspython
-picamera
-IPython
