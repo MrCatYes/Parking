@@ -21,7 +21,7 @@ LICENSE → licence MIT
 
 ---
 
-## 🚀 Fonctionnalités principales
+##  Fonctionnalités principales
 - Détection / gestion d’immatriculations
 - Support Python et C++ selon les besoins
 - Base pour systèmes de reconnaissance de véhicules
